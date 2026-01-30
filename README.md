@@ -141,7 +141,7 @@ yarn install
 cp .env.example .env
 ```
 
-Edit the `.env` file with your values (see [Usage](#usage-joystick) section).
+Edit the `.env` file with your values.
 
 ### 4. Run the Development Server
 

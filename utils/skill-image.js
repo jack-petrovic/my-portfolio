@@ -82,6 +82,11 @@ import kubernetes from '../app/assets/svg/skills/kubernetes.svg'
 import linux from '../app/assets/svg/skills/linux.svg'
 import sqlalchemy from '../app/assets/svg/skills/sqlalchemy.svg'
 import fastapi from '../app/assets/svg/skills/fastapi.svg'
+import laravel from '../app/assets/svg/skills/laravel.svg'
+import express from '../app/assets/svg/skills/express.svg'
+import nestjs from '../app/assets/svg/skills/nest.js.svg'
+import node from '../app/assets/svg/skills/nodejs.svg'
+import github from '../app/assets/svg/skills/github.svg'
 
 
 
@@ -114,6 +119,8 @@ export const skillsImage = (skill) => {
       return nuxtJS;
     case 'react':
       return react;
+    case 'react native':
+      return react;
     case 'svelte':
       return svelte;
     case 'typescript':
@@ -136,7 +143,7 @@ export const skillsImage = (skill) => {
       return mysql;
     case 'postgresql':
       return postgresql;
-    case 'tailwind':
+    case 'tailwind css':
       return tailwind;
     case 'vitejs':
       return vitejs;
@@ -188,7 +195,7 @@ export const skillsImage = (skill) => {
       return graphql;
     case 'lightroom':
       return lightroom;
-    case 'materialui':
+    case 'material ui':
       return materialui;
     case 'nginx':
       return nginx;
@@ -254,6 +261,16 @@ export const skillsImage = (skill) => {
       return sqlalchemy;
     case 'fastapi':
       return fastapi;
+    case 'laravel':
+      return laravel;
+    case 'express.js':
+      return express;
+    case 'nestjs':
+      return nestjs;
+    case 'node.js':
+      return node;
+    case 'github':
+      return github;
     default:
       break;
   }

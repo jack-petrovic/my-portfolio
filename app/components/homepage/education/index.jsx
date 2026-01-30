@@ -40,7 +40,7 @@ function Education() {
             </div>
           </div>
 
-          <div>
+          <div className="w-full m-auto">
             <div className="flex flex-col gap-6">
               {
                 educations.map(education => (

@@ -12,12 +12,8 @@
 </p>
 
 <p align="center">
-  <a href="#demo-movie_camera">Demo</a> •
   <a href="#features-sparkles">Features</a> •
-  <a href="#installation-arrow_down">Installation</a> •
-  <a href="#usage-joystick">Usage</a> •
-  <a href="#deployment-rocket">Deployment</a> •
-  <a href="#tutorials-wrench">Tutorials</a>
+  <a href="#installation-arrow_down">Installation</a>
 </p>
 
 ---
